@@ -1,5 +1,4 @@
 [
-
  {
     "itemID": 1,
     "itemName": "help.js",
@@ -18,7 +17,7 @@
     "timestamp": "2024-11-04T14:00:00Z",
     "pastebinLink": "https://paste.c-net.org/MorbidFrankie"
    },
-  {
+ {
     "itemID": 3,
     "itemName": "imgur.js",
     "type": "GoatMart",
@@ -27,6 +26,4 @@
     "timestamp": "2024-11-05T14:00:00Z",
     "pastebinLink": "https://paste.c-net.org/ChaoticDictator"
    }
-
- 
-  ]
+]
